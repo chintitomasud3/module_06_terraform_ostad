@@ -242,3 +242,10 @@ resource "aws_route_table_association" "public_rt_association" {
 # }
 
 ````
+
+## Screenshots
+### Terraform EC2 Instance Architecture
+![EC2 Instance Terraform Architecture](./Screenshots/ec2instance_terraform.png)
+
+### 3-Tier Application Flow
+![Frontend MongoDB Database Architecture](./Screenshots/frontend_mongo_database.png)
